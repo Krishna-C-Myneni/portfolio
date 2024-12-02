@@ -1,0 +1,26 @@
+{
+    "p1":{
+        "title":"Soft Robotic Actuator",
+        "content":"An actuator engineered for safe, adaptable use around humans in collaborative spaces.",
+        "report":"https://drive.google.com/file/d/1tdtKhuYn1nylgq_VrnHKgpGwd3MMaotT/view?usp=sharing"
+    },
+    "p2":{
+        "title":"Design and Modelling of TorsioSquid",
+        "content":"An agile, squid-inspired underwater soft robot designed for quiet, efficient movement in shallow, still-water environments, ideal for delicate habitat exploration and minimal disruption to aquatic life.",
+        "report":"https://drive.google.com/file/d/1UaXs1piDGcvdpyH1RMZoKALoW2GsXHNG/view?usp=sharing"
+    },
+    "p3":{
+        "title":"Swing up of Acrobot and Pendubot",
+        "content":"Controllers designed to swing up and stabilize an underactuated 2-link acrobot and pendubot, enabling smooth and balanced movement."
+    },
+    "p4":{
+        "title":"Citywide Smart Waste Management System",
+        "content":"A smart waste management device designed to tackle garbage disposal challenges in developing nations, improving efficiency and cleanliness in urban areas.",
+        "report":"https://drive.google.com/file/d/14ZMTu3pYKPjgDkm61TlEupo_6OKprg9H/view?usp=sharing"
+    },
+    "p5":{
+        "title":"Robotic Arm for EV Charging",
+        "content":"A robotic arm designed to plug chargers into EV sockets under real-world conditions, automating the charging process.",
+        "report":"https://drive.google.com/file/d/1R9Op75GpjaHG4unpLhJu9e5NXJ_yXng2/view?usp=sharing"
+    }
+}

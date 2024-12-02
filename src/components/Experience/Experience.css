@@ -1,0 +1,78 @@
+.body1{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: -1%;
+}
+
+.container1{
+    padding: 1.25em 0em 1em 0em;
+}
+
+.section-title{
+    font-size: 2em;
+    margin-top: 2.2em;
+    margin-bottom: 0.8em;
+    text-decoration: underline;
+    text-underline-offset: 0.55em;
+    text-decoration-color: rgb(110, 163, 210);
+}
+
+
+.title1{
+    font-size: 1.25em;
+    margin-bottom: 0.75em;
+    font-family: "Roboto", sans-serif;
+}
+
+.info1{
+    font-size: 1em;
+    color: rgb(92, 89, 89);
+}
+
+.link{
+    text-decoration: underline;
+    color: rgb(50, 121, 183);
+    text-decoration-color: rgb(50, 121, 183);
+    text-underline-offset: 0.28em ;
+}
+
+.content1{
+    color: rgb(92, 89, 89);
+}
+
+.link1{
+    margin-top:0.4%;
+    display:flex;
+}
+
+@media screen and (max-width:980px){
+
+    .line{
+        margin-top: 6em;
+        margin-bottom: 6em;
+    }
+    .section-title{
+        font-size: 1.8em;
+        margin-bottom: 1.5em;
+    }
+
+    .title1{
+        font-size: 1.1em;
+    }
+
+    .info1{
+        font-size: 0.8em;
+        margin-bottom: 0.6em;
+    }
+
+    .content1{
+        font-size: 0.8em;
+    }
+
+    .link1{
+        font-size: 1.95em;
+        margin-top: 0.5em;
+        margin-bottom: 1.3em;
+    }
+}

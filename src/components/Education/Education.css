@@ -1,0 +1,13 @@
+.edu{
+    color: rgb(92, 89, 89);
+}
+
+.section-title{
+    font-family: "Roboto", sans-serif;
+}
+
+@media screen and (max-width:980px){
+    .edu{
+        font-size: 0.82em;
+    }
+}

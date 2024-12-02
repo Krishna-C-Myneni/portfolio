@@ -1,0 +1,21 @@
+{
+    "exp1":{
+        "title": "Invention Factory, IIT Gandhinagar",
+        "time": "May 2024 - Jul 2024",
+        "content":"Invented a personalized device that alleviates the discomfort of Peripheral Neuropathy patients, offering tailored relief and improved quality of life.",
+        "link":{
+            "tag": "Smart Peripheral Neuropathy Therapy Device",
+            "link":"https://youtu.be/lmxmv6xw-Ks?feature=shared"
+        }
+    },
+    "exp2":{
+        "title":"Indian Institute of Information Technology, Prayagraj",
+        "tag":"Research Intern",
+        "proff": {
+            "tag":"Prof. G.C. Nandi",
+            "link":"https://sites.google.com/iiita.ac.in/gcnandi/home"
+        },
+        "time":"May 2023 - Jul 2023",
+        "content":"Worked on Human-Robot Interaction and Robot Grasping through Vision Language Models to create more intuitive and responsive robotic systems."
+    }
+}

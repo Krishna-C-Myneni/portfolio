@@ -1,0 +1,45 @@
+.title-2 {
+    color: rgb(92, 89, 89);
+}
+.names{
+    color: rgb(92, 89, 89);
+}
+
+.submission{
+    margin-top: 1.5em;
+    margin-bottom: -0.3em;
+}
+
+.submissions{
+    margin-top: -0.3em;
+}
+
+.rbc{
+    display: flex;
+    justify-content: left;
+    margin-top: 1.5em;
+}
+
+@media screen and (max-width: 980px){
+
+    .title-1{
+        font-size: 1em;
+        margin-bottom: 1.5em;
+    }
+
+    .title-2{
+        font-size: 0.9em;
+        margin-bottom: 0.8em;
+    }
+
+    .names{
+        font-size: 0.8em;
+    }
+    .submission{
+        font-size: 0.8em;
+    }
+
+    .rbc{
+        justify-content: center;
+    }
+}

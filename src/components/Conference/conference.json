@@ -1,0 +1,19 @@
+{
+    "title":"Poster Submission",
+    "title2":"TorsioSquid: A squid-inspired underwater robot",
+    "names":{
+        "n1":"Naman Khetan, ",
+        "b":"Krishna Chaitanya Myneni",
+        "n2":", Pawan Sharma"
+    },
+    "submissions":{
+        "s1": {
+            "tag": "CyPhySS 2024, IISc Banglore",
+            "link":"https://drive.google.com/file/d/1J3ZNiVR8yAC3wmOQ4lLpl69Why9pkAXX/view?usp=sharing"
+        },
+        "s2":{
+            "tag":"IEEE RoboSoft 2024",
+            "link":"https://drive.google.com/file/d/1Ny5YA_DPC5HQxtKHZtlG0Lkjf74UMWWn/view?usp=sharing"
+        }
+    }
+}

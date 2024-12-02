@@ -1,0 +1,89 @@
+.titlep1{
+    font-size: 1.3em;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+    font-family: "Roboto", sans-serif;
+}
+
+.titlep{
+    font-size: 1.3em;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+    margin-top: 0.8em;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    padding-top: 1em;
+}
+
+.rb{
+    margin-top: 3vh;
+}
+
+.report-button{
+    background-color: rgb(50, 111, 165);
+    padding: 0.6em 0.5em;
+    font-size: 1em;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 650;
+    border-radius: 0.5em;
+}
+
+.project-image-11{
+    width: 17em;
+    height: 17em;
+    padding-right: 0.5em;
+}
+
+.project-image-12{
+    width: 18.5em;
+    height: 18em;
+    padding-left: 0.5em;
+}
+
+.project-image-2{
+    width: 37em;
+    height: 18em;
+}
+
+.project-image-41{
+    width: 20em;
+    height: 15em;
+    padding-right: 0.5em;
+}
+
+.project-image-42{
+    width: 20em;
+    height: 15em;
+    padding-left: 0.5em;
+}
+
+.project-image-5{
+    width: 19em;
+}
+
+.containerp{
+    padding: 1.25em 0em 1em 0em;
+}
+
+@media screen and (max-width:980px){
+
+    .containerp{
+        margin-bottom: 4em;
+    }
+
+    .report-button{
+        font-size: 1.9em;
+        display: flex;
+        justify-content: center;
+    }
+
+    .rb{
+        display: flex;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,50 @@
+.navbar-body{
+    display: flex;
+    align-items: row;
+    margin-top: -6.5vh;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}
+
+.nav-line{
+    border-top: 6px solid rgba(50, 121, 183, 0.75);
+}
+
+.nav-name{
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-top:0.05em;
+    margin-bottom: 0.8em;
+}
+
+
+.linkedinIcon{
+    position: absolute;
+    right: 4.5em;
+    height: 1.7em;
+}
+
+.mailIcon{
+    position: absolute;
+    right: 8em;
+    height: 1.8em;
+}
+
+@media screen and (max-width:980px){
+    .navbar-body{
+        padding-top: 6.25vh;
+    }
+
+    .nav-name{
+        font-size: 2.2em;
+    }
+
+    .mailIcon{
+        height: 2.5em;
+        right: 8em;
+    }
+
+    .linkedinIcon{
+        height: 2.2em;
+    }
+}

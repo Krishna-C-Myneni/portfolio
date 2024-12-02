@@ -1,0 +1,17 @@
+{
+    "title": "Hi, I am Krishna Chaitanya Myneni",
+    "title2": "Senior Undergraduate student at the Department of Mechanical Engineering, Indian Institute of Technology (BHU), Varanasi.",
+    "info11": "I am working with ",
+    "link1": {
+        "tag": "Prof. Pawan Sharma",
+        "link": "https://iitbhu.ac.in/dept/mec/people/pawanmec"
+    },
+    "info12": "at IIT BHU on the design and modeling of soft pneumatic actuators.",
+    "info21": "I have previously been a part of ",
+    "link2":{
+        "tag" :"Invention Factory 2024",
+        "link":"https://makerbhavanfoundation.org/programs/invention-factory/"
+    },
+    "info22": " at IIT Gandhinagar, where I invented Smart Peripheral Neuropathy Therapy Device.",
+    "info3": "I am passionate about designing innovative technologies and robotic systems that enhance patient care and improve treatment both inside and outside of hospitals."
+}
